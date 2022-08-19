@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>letter</title>
+	</head>
+    <style>
+        .letter{
+        .font-family:corbel;
+        }
+        .first-paragraph{
+            text-align: left;
+            float: right;
+        }
+        .second-paragraph{
+            padding-top: 80px;
+        }
+        .third-paragraph{
+            float:right;
+        }
+        .name{
+            padding-top: 40px;
+        }
+    </style>
+        </body>
+        <div class="letter">
+        <p class="first-paragraph">from<br>Muttu pujari<br>At post Utagi Tal-Jat<br>Dist-Sangli<br>Maharastra 416413<br>Date:-07/08/2022</p><br>
+        <p class="second-paragraph"><br>To<br>HOD<br>muttu pujari<br>date:-09/08/2022</p>
+        <h3>Re: Eileen dover university application</h3>
+        <h4>Dear Eileen</h4>
+        <p class="third-paragraph">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project is related to “ONLINE WATER SUPPLY”, It will provide lot of information involves recording stocks of  water quantity, maintaining of account regarding payables / receivables from the customer or vendor, efficient handling and processing data</p>
+        <h4>starting dates:</h4>
+        <p>*first semester 01 jan 2016</p>
+        <p>*second semester 05 feb 2016</p>
+        <p>*third semester 09 1 sep 2016</p>
+        <p>*foursemester 21 aug 2016</p>
+        <p class="four-paragraph">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customer is our god’ mainly this website is based on this formula.  After ordering water he bought into Pay pal process like VISA or MASTER credit cards or any Debit cards are accepted in this website. Customer can happily order water from his rest place</p>
+        <p>your sencerely:</p>
+        <p class="signature">Mr Muttu pujari</p>
+        <p>_________________</p>
+
+    </body>
+        </html>
